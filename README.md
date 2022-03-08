@@ -1,4 +1,4 @@
-# PortfolioProjects
+# PortfolioProject on Covid deaths record.
 This is an analysis on Covid deaths using SQL sever  
 I used SQL to analyse the realtionships between several records represented as columns of data like;
 Country,continent, population, tests, vaccination and deaths, and non vaccinated.
